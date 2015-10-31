@@ -3,40 +3,44 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <img src="Logo_UQAM.jpg" width="1050"   alt="Alternate Text" />
     </div>
 
     <div class="row">
         <div class="col-md-4">
-            <h2>Getting started</h2>
-            <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
+            <h2>Bienvenue</h2>
+            <p>           
+                Projet # 2</br>
+                Développement d’un logiciel avec contrôle du code source,</br>
+                assemblage du logiciel et tests automatiques</br>
+                MGL7460 - Automne 2015
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Get more libraries</h2>
-            <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
-            </p>
-            <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
+                <a class="btn btn-default" href="">Plus de details... &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Web Hosting</h2>
+            <h2>Objectif</h2>
             <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
+                L’objectif de ce travail est de mettre en pratique les différents aspects d’une pratique professionelle
+                de développement de logiciels vus dans les premiêres semaines du cours : contrôle
+                du code source, assemblage, tests unitaires et tests d’acceptation automatiques.            </p>
+            <p>
+                <a class="btn btn-default" href="">Plus de details... &raquo;</a>
+            </p>
+        </div>
+        <div class="col-md-4">
+            <h2>Ce qu’il faut faire</h2>
+            <p>
+                Pour ce travail, vous devez développer un «petit logiciel», dans le langage de votre choix,
+                logiciel pour lequel vous devrez avoir des tests automatiques, tant des tests unitaires que
+                des tests d’acceptation,....
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+                <a class="btn btn-default" href="">Plus de details... &raquo;</a>
             </p>
         </div>
     </div>
 
 </asp:Content>
+
