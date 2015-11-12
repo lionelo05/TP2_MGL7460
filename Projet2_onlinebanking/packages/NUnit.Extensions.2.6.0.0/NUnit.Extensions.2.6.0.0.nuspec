@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>NUnit.Extensions</id>
+    <version>2.6.0.0</version>
+    <authors>John Gietzen</authors>
+    <owners>John Gietzen</owners>
+    <licenseUrl>http://www.opensource.org/licenses/Zlib</licenseUrl>
+    <projectUrl>https://github.com/otac0n/NUnit.Extensions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Community extensions for NUnit</description>
+    <tags>nunit testing unit-tests experimental</tags>
+    <dependencies>
+      <dependency id="NUnit" version="2.6.0.12054" />
+    </dependencies>
+  </metadata>
+</package>
