@@ -1,0 +1,9 @@
+C:\Users\MariLio\Desktop\projet2\authentification\OnlineBanking\TestsAcceptation\bin\Debug\TestsAcceptation.dll
+C:\Users\MariLio\Desktop\projet2\authentification\OnlineBanking\TestsAcceptation\bin\Debug\TestsAcceptation.pdb
+C:\Users\MariLio\Desktop\projet2\authentification\OnlineBanking\TestsAcceptation\bin\Debug\nunit.framework.dll
+C:\Users\MariLio\Desktop\projet2\authentification\OnlineBanking\TestsAcceptation\bin\Debug\WebDriver.dll
+C:\Users\MariLio\Desktop\projet2\authentification\OnlineBanking\TestsAcceptation\bin\Debug\nunit.framework.xml
+C:\Users\MariLio\Desktop\projet2\authentification\OnlineBanking\TestsAcceptation\bin\Debug\WebDriver.xml
+C:\Users\MariLio\Desktop\projet2\authentification\OnlineBanking\TestsAcceptation\obj\Debug\TestsAcceptation.csprojResolveAssemblyReference.cache
+C:\Users\MariLio\Desktop\projet2\authentification\OnlineBanking\TestsAcceptation\obj\Debug\TestsAcceptation.dll
+C:\Users\MariLio\Desktop\projet2\authentification\OnlineBanking\TestsAcceptation\obj\Debug\TestsAcceptation.pdb
