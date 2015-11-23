@@ -19,12 +19,48 @@ namespace TemplateTesting.Banque
         {
             if (!Page.IsPostBack)
             {
-                
+                string login1 = Context.User.Identity.GetUserName();
+                gestionaire.BindDatauser(Grid, login1);
+                dat.Text= Convert.ToString(gestionaire.Dateouverturecompte(login1));
             }
 
         }
 
 
+        protected void Grid_PageIndexChanged(object source, DataGridPageChangedEventArgs e)
+        {
+            string login1 = Context.User.Identity.GetUserName();
+            Grid.CurrentPageIndex = e.NewPageIndex;
+
+            gestionaire.BindDatauser(Grid, login1);
+
+        }
+
+
+        protected void btncredit_Click(object sender, EventArgs e)
+        {
+            
+            string login1 = Context.User.Identity.GetUserName();
+            try
+            {
+
+            gestionaire.insertcredittrans(login1, Convert.ToDouble(montant.Text));
+            gestionaire.BindDatauser(Grid, login1);
+             }
+           catch (Exception excp){
+               erreur.Text = excp.Message;
+           }
+
+            montant.Text = "";
+        }
+
+        protected void btndebit_Click(object sender, EventArgs e)
+        {
+            string login1 = Context.User.Identity.GetUserName();
+            gestionaire.insertdebittrans(login1, Convert.ToDouble(montant.Text));
+            gestionaire.BindDatauser(Grid, login1);
+            montant.Text = "";
+        }
         
     }
 }
