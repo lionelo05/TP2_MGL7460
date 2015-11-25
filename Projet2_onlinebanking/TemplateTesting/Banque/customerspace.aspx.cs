@@ -22,6 +22,7 @@ namespace TemplateTesting.Banque
                 string login1 = Context.User.Identity.GetUserName();
                 gestionaire.BindDatauser(Grid, login1);
                 dat.Text= Convert.ToString(gestionaire.Dateouverturecompte(login1));
+                solde.Text = "Solde Actuel: " + Convert.ToString(gestionaire.credituser(login1)) + " $";
             }
 
         }
@@ -46,6 +47,7 @@ namespace TemplateTesting.Banque
 
             gestionaire.insertcredittrans(login1, Convert.ToDouble(montant.Text));
             gestionaire.BindDatauser(Grid, login1);
+            solde.Text = "Solde Actuel: " + Convert.ToString(gestionaire.credituser(login1)) + " $";
              }
            catch (Exception excp){
                erreur.Text = excp.Message;
@@ -59,6 +61,7 @@ namespace TemplateTesting.Banque
             string login1 = Context.User.Identity.GetUserName();
             gestionaire.insertdebittrans(login1, Convert.ToDouble(montant.Text));
             gestionaire.BindDatauser(Grid, login1);
+            solde.Text = "Solde Actuel: " + Convert.ToString(gestionaire.credituser(login1)) + " $";
             montant.Text = "";
         }
         

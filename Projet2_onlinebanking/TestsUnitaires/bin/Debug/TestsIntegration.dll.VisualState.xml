@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1014]C:\Users\yves.lionel\Documents\Visual Studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\TestsIntegration.dll</TopNode>
+  <SelectedNode>[0-1004]TestsIntegration.Test_Nunit.insertcredittranstest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1014]C:\Users\yves.lionel\Documents\Visual Studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\TestsIntegration.dll" Expanded="true" />
+    <Node UniqueName="[0-1015]TestsIntegration" Expanded="true" />
+    <Node UniqueName="[0-1000]TestsIntegration.Test_Nunit" Expanded="true" />
+  </Nodes>
+</VisualState>

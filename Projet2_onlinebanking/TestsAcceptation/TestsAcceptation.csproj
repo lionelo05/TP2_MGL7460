@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D8796937-BDEE-41DF-9A3C-65835D3C86EB}</ProjectGuid>
+    <ProjectGuid>{E15B3B6B-4007-4AC1-AC54-27BFFB3D1CFE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TestsAcceptation</RootNamespace>
@@ -35,14 +35,20 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="nunit.framework">
-      <HintPath>E:\COURS\ASP.NET\NUnit-3.0.0-alpha-4\bin\nunit.framework.dll</HintPath>
+    <Reference Include="StealFocus.MSTestExtensions">
+      <HintPath>..\packages\StealFocus.MSTestExtensions.1.0.30329.0\lib\net40-Full\StealFocus.MSTestExtensions.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
-    <Reference Include="System.Windows.Forms" />
+    <Reference Include="TechTalk.SpecFlow">
+      <HintPath>..\packages\SpecFlow.1.9.0\lib\net35\TechTalk.SpecFlow.dll</HintPath>
+    </Reference>
     <Reference Include="WebDriver">
-      <HintPath>..\packages\Selenium.WebDriver.2.48.1\lib\net40\WebDriver.dll</HintPath>
+      <HintPath>..\packages\Selenium.WebDriver.2.48.2\lib\net40\WebDriver.dll</HintPath>
+    </Reference>
+    <Reference Include="ZetaLongPaths">
+      <HintPath>..\packages\ZetaLongPaths.1.0.0.7\lib\net40-full\ZetaLongPaths.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Choose>
@@ -58,14 +64,37 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="Authentification_echec_admin.cs" />
-    <Compile Include="Authentification_echec_client_inconnu.cs" />
-    <Compile Include="Authentification_reussi_admin.cs" />
-    <Compile Include="Authentification_reussi_client.cs" />
+    <Compile Include="Ajout_Client.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ajout_Client.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Ajout_ClientSteps.cs" />
+    <Compile Include="Authentification.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Authentification.feature</DependentUpon>
+    </Compile>
+    <Compile Include="AuthentificationStep.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Ajout_Client.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Ajout_Client.feature.cs</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="Authentification.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>Authentification.feature.cs</LastGenOutput>
+    </None>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TemplateTesting\Projet2_onlinebanking.csproj">
+      <Project>{e583af0e-b52a-4adb-8bc4-be1e5c88824e}</Project>
+      <Name>Projet2_onlinebanking</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

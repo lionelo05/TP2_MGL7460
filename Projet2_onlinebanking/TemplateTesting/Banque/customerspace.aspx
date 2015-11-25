@@ -9,6 +9,7 @@
     <p>Compte ouvert le: <asp:Label ID="dat" ForeColor="YellowGreen" Font-Bold="true" runat="server" Text=""></asp:Label>.<br/>
         Vous pouvez crediter ou debiter votre compte en ligne.</p><br/>
 
+    <asp:Label ID="solde" runat="server" Text="" Font-Bold="true" ForeColor="Green"></asp:Label>
     <asp:Label ID="erreur" runat="server" Text="" ForeColor="Red"></asp:Label>  
 
         <div>  

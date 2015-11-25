@@ -239,7 +239,7 @@ namespace TemplateTesting.Banque
 
             if (credit < 0)
             {
-                throw new ArgumentOutOfRangeException("amount invalid");
+                //throw new ArgumentOutOfRangeException("amount invalid");
             }
 
             else{

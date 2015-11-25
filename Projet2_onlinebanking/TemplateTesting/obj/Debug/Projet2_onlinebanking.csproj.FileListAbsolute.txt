@@ -193,6 +193,6 @@ C:\Users\MariLio\Desktop\projet2\Debit account\OnlineBanking\TemplateTesting\bin
 C:\Users\MariLio\Desktop\projet2\Debit account\OnlineBanking\TemplateTesting\bin\fr\Microsoft.Owin.Security.Google.resources.dll
 C:\Users\MariLio\Desktop\projet2\Debit account\OnlineBanking\TemplateTesting\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
 C:\Users\MariLio\Desktop\projet2\Debit account\OnlineBanking\TemplateTesting\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-C:\Users\MariLio\Desktop\projet2\Debit account\OnlineBanking\TemplateTesting\obj\Debug\Projet2_onlinebanking.csprojResolveAssemblyReference.cache
 C:\Users\MariLio\Desktop\projet2\Debit account\OnlineBanking\TemplateTesting\obj\Debug\TemplateTesting.dll
 C:\Users\MariLio\Desktop\projet2\Debit account\OnlineBanking\TemplateTesting\obj\Debug\TemplateTesting.pdb
+C:\Users\MariLio\Desktop\projet2\Debit account\OnlineBanking\TemplateTesting\obj\Debug\Projet2_onlinebanking.csprojResolveAssemblyReference.cache

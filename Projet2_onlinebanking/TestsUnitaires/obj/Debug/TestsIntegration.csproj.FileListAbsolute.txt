@@ -1,0 +1,217 @@
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\TestsIntegration.dll.config
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\TestsIntegration.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\TestsIntegration.pdb
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\TestsIntegration.dll.CodeAnalysisLog.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\TestsIntegration.dll.lastcodeanalysissucceeded
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\TemplateTesting.Fakes.fakesconfig
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\nunit.extensions.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\nunit.framework.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\TemplateTesting.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\TemplateTesting.Fakes.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\System.Web.Optimization.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Owin.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.Owin.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\EntityFramework.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\TemplateTesting.pdb
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\nunit.framework.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\TemplateTesting.Fakes.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\System.Web.Optimization.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.Owin.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\EntityFramework.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\fr\System.Web.Optimization.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\fr\Microsoft.Owin.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\TestsIntegration.csprojFakesResolveAssemblyReference.cache
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\fakes.args
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\EntityFramework.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\EntityFramework.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\fr\EntityFramework.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\fr\Microsoft.Owin.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\fr\System.Web.Optimization.resources.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.Owin.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.Owin.Security.Cookies.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.Owin.Security.Cookies.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.Owin.Security.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.Owin.Security.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.Owin.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Newtonsoft.Json.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Newtonsoft.Json.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\nunit.extensions.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\nunit.framework.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\nunit.framework.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\Owin.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\System.Web.Optimization.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\System.Web.Optimization.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\TemplateTesting.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\TemplateTesting.Fakes.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\TemplateTesting.Fakes.fakesconfig
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\TemplateTesting.Fakes.pdb
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\TemplateTesting.Fakes.xml
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\b\TemplateTesting.pdb
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\f.ah
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\f.ch
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\f.cs
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\f.csproj
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\f.fakes
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\f.fakesconfig
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\o\f.csproj.FileListAbsolute.txt
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\o\f.csprojResolveAssemblyReference.cache
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\o\TemplateTesting.Fakes.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\Fakes\tt\o\TemplateTesting.Fakes.pdb
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\TestsIntegration.csprojResolveAssemblyReference.cache
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\TestsIntegration.dll
+C:\Users\yves.lionel\documents\visual studio 2013\Projects\TemplateTesting\TestsIntegration\obj\Debug\TestsIntegration.pdb
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\obj\Debug\TestsIntegration.csprojResolveAssemblyReference.cache
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\obj\Debug\TestsIntegration.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\obj\Debug\TestsIntegration.pdb
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\TestsIntegration.dll.config
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\TestsIntegration.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\TestsIntegration.pdb
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\TestsIntegration.dll.CodeAnalysisLog.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\TestsIntegration.dll.lastcodeanalysissucceeded
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\MSTestExtensions.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\nunit.extensions.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\StealFocus.MSTestExtensions.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\TemplateTesting.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\TemplateTesting.Fakes.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\ZetaLongPaths.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\System.Web.Optimization.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Owin.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Security.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\EntityFramework.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Newtonsoft.Json.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\TemplateTesting.pdb
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\nunit.framework.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\StealFocus.MSTestExtensions.pdb
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\TemplateTesting.Fakes.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\ZetaLongPaths.pdb
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\System.Web.Optimization.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Security.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\EntityFramework.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\Newtonsoft.Json.xml
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.AspNet.Identity.Core.resources.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\fr\System.Web.Optimization.resources.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.Owin.resources.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.Owin.Security.resources.dll
+E:\COURS\MGL7460_Maintenance logiciel\projets\projet 2\OnlineBanking\OnlineBanking\TestsIntegration\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\obj\Debug\TestsIntegration.csprojResolveAssemblyReference.cache
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\obj\Debug\TestsIntegration.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\TestsIntegration.dll.config
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\TestsIntegration.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\TestsIntegration.pdb
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\TestsIntegration.dll.CodeAnalysisLog.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\TestsIntegration.dll.lastcodeanalysissucceeded
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\MSTestExtensions.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\nunit.extensions.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\StealFocus.MSTestExtensions.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\TemplateTesting.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\TemplateTesting.Fakes.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\ZetaLongPaths.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\System.Web.Optimization.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Owin.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\EntityFramework.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\TemplateTesting.pdb
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\nunit.framework.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\StealFocus.MSTestExtensions.pdb
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\TemplateTesting.Fakes.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\ZetaLongPaths.pdb
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\System.Web.Optimization.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\EntityFramework.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\fr\System.Web.Optimization.resources.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.Owin.resources.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\MariLio\Desktop\projet2\Credit account\OnlineBanking\TestsIntegration\obj\Debug\TestsIntegration.pdb
